@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/nimes/OneDrive - Faculty of Technology, University of Ruhuna/University/L3/S1/ICT3122 Advanced Programming Practicum/Online-Auction-System-master/mysql-connector-java-5.1.6-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
